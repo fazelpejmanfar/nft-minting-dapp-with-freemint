@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x9f7Dc8CEc237025ED026D90015DBc82096C57D74",
+  "SCAN_LINK": "https://etherscan.io/address/0x62078f64B75F25B986eC53966f59485C2F9844D1",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Hashlips",
+  "SYMBOL": "Hashlips",
+  "MAX_SUPPLY": 5000,
+  "FREE_SUPPLY": 2500,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MAX_PER_TX_FREE": 3,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
